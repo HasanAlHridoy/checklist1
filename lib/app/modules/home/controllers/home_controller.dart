@@ -1,0 +1,14 @@
+import 'package:flutter/services.dart';
+import 'package:get/get.dart';
+
+class HomeController extends GetxController {
+  //TODO: Implement HomeController
+
+
+
+  @override
+  void onClose() {
+
+  }
+
+}
